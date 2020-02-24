@@ -1,5 +1,4 @@
 public class Halloword{
     public void main(String [] args){
-        System.out.println("Hello Lybo");
-    }
+          System.out.println("How are you?");  }
 }
