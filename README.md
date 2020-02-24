@@ -1,5 +1,5 @@
-public class Hello_Word{
-public static void main(String [] args){
-System.out.println("Hello Aleks");
-}
+public class Halloword{
+    public void main(String [] args){
+        System.out.println("Hello");
+    }
 }
